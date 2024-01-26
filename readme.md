@@ -14,7 +14,9 @@
 ## Connect Metamask
 https://opensource.ripple.com/docs/evm-sidechain/connect-metamask-to-xrpl-evm-sidechain/
 
-###EVM Network for Metamask
+### EVM Network for Metamask
+|Field|Value|
+|---|---|
 |Network Name | XRPL EVM Sidechain|
 |New RPC URL | https://rpc-evm-sidechain.xrpl.org|
 |Chain ID | 1440002|
@@ -25,10 +27,11 @@ https://opensource.ripple.com/docs/evm-sidechain/connect-metamask-to-xrpl-evm-si
 
 ## Bridge Funds
 
-You will need to use the bridge tool: 
+You will need to use the bridge tool to fund the EVM sidechain account
 https://bridge.devnet.xrpl.org/
 
-## Mint contract
+## Mint Smart Contract
+There are many ways, here are a few...
 
 ### -> Using Forge
 https://github.com/XRPL-Commons/CyprusJan2024EVM
